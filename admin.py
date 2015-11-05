@@ -2,7 +2,7 @@
 
 '''
 
-   Django Admin model optimization. Spare admin page opened long time (about min) 
+   Django Admin optimization. Spare admin page opened long time (about min) 
 	due to large number of queries on big amount of data
 
 '''

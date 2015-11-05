@@ -35,7 +35,7 @@ from app.parts.models import Parts, SectionCarInfo
 
 '''
 
-   After optimization this tasks takes about 6 min
+   After optimization this task takes about 6 min
 
 '''
 
